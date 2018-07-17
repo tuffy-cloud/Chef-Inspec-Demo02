@@ -1,8 +1,8 @@
-name: inspec-workshop
-title: CIS CentOS 6 InSpec Workshop
-maintainer: Annie Hedgpeth
-copyright: Annie Hedgpeth
-copyright_email: annie.hedgpeth@gmail.com
+name: CIS Windows 2016 Profile Demo
+title: CIS Windows 2016 Profile Demo
+maintainer: Kevin Tuffner
+copyright: Kevin Tuffner
+copyright_email: ktuffner@gmail.com
 license: All Rights Reserved
-summary: An exercise in building a CentOS profile by writing the controls with InSpec
+summary: CIS Windows 2016 Profile Demo
 version: 0.1.0
